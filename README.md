@@ -11,18 +11,23 @@ i.aspire = 'to learn and share knowledge'
 
 ![Fettah's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fettahaud)
 
-<h2 align="center">Find Me At </h2>
+<h2>Find Me At </h2>
 <p>
-    <a href="https://twitter.com/Fettah_Aud">
-        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-    </a>
-    <a href="https://www.linkedin.com/in/fettah-aud/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-    </a>
     <a href="https://www.instagram.com/fettahaud/">
         <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
     </a>
-     <a href="https://www.instagram.com/fettahaud/">
+    <br>
+    <a href="https://www.instagram.com/fettahaud/">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
     </a>
+    <br>
+    <a href="https://www.linkedin.com/in/fettah-aud/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+    </a>
+    <br>
+    <a href="https://twitter.com/Fettah_Aud">
+        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+    </a>
 </p>
+
+<h2 align="center">Some of the best I've made 👇</h2>
