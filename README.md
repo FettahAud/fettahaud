@@ -7,6 +7,7 @@ i.love = ['JavaScript', 'css', 'learning', 'solve programing problems', 'read bo
 i.workWith = ['html', 'sass', 'JavaScript', 'Github', 'AdobeXd', 'Figma', 'Loading More...']
 i.aspire = 'to learn and share knowledge'
 ```
+<h2 align="center">Languages I use these days</h2>  
 
 ![Fettah's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fettahaud)
 
